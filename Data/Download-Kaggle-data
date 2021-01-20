@@ -1,0 +1,5 @@
+To download the data directly from Kaggle you can go to this direction of the competition:
+https://www.kaggle.com/c/jane-street-market-prediction/data?select=train.csv
+
+If you want to download it directly with the Kaggle API you can review this tutorial in Stackoverflow:
+https://stackoverflow.com/questions/55934733/documentation-for-kaggle-api-within-python
